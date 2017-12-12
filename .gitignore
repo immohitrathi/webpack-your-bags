@@ -1,0 +1,9 @@
+.DS_Store
+dist
+node_modules
+server/log/*.log
+server/.env
+npm-debug.log
+coverage
+newrelic_agent.log
+log/*
